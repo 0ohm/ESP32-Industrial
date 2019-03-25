@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For Esp32Industrial
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Esp32Ind	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+buttonPressed	KEYWORD2	
+relay		KEYWORD2
+getCurrent	KEYWORD2
+getOpto	KEYWORD2	
+getTemp	KEYWORD2	
+getHum	KEYWORD2	
+getAnalog1	KEYWORD2	
+getAnalog2	KEYWORD2
+saveData	KEYWORD2
+getData	KEYWORD2
+ledState	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+PIN1	LITERAL1
+PIN2	LITERAL1
+PIN3	LITERAL1
+PIN4	LITERAL1
